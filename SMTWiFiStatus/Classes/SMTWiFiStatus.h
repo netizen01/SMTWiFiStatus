@@ -1,6 +1,5 @@
 //
 //  SMTWiFiStatus.h
-//  testWiFi
 //
 //  Created by Ali Riahipour on 8/23/16.
 //  Copyright © 2016 Snapp. All rights reserved.
